@@ -1,0 +1,6 @@
+/core/*/target
+/*/target
+/node_modules/
+/public/build/
+
+.DS_Store
